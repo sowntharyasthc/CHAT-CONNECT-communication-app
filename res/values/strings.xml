@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flash Chat</string>
+    <string name="title_activity_nav_compose_app">NavComposeApp</string>
+</resources>
